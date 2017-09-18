@@ -1,0 +1,381 @@
+NameInDevLangs: {}
+items:
+- name: User help for Intune
+  NameInDevLangs: {}
+  items:
+  - name: Use managed devices to get work done
+    NameInDevLangs: {}
+    href: use-managed-devices-to-get-work-done.md
+    Metadata: {}
+  - name: What information can my company see with Intune?
+    NameInDevLangs: {}
+    href: what-info-can-your-company-see-when-you-enroll-your-device-in-intune.md
+    Metadata: {}
+  - name: What happens when I reset my device?
+    NameInDevLangs: {}
+    href: what-happens-if-you-reset-your-device-cpwebsite.md
+    Metadata: {}
+  - name: How to sign in to the Company Portal
+    NameInDevLangs: {}
+    href: sign-in-to-the-company-portal.md
+    Metadata: {}
+  - name: Using your Android device with Intune
+    NameInDevLangs: {}
+    href: using-your-android-device-with-intune.md
+    items:
+    - name: What happens when you enroll an Android device?
+      NameInDevLangs: {}
+      href: what-happens-if-you-install-the-company-portal-app-and-enroll-your-device-in-intune-android.md
+      Metadata: {}
+    - name: Enroll your device
+      NameInDevLangs: {}
+      href: enroll-your-device-in-Intune-android.md
+      items:
+      - name: Enroll your device with Android for Work
+        NameInDevLangs: {}
+        href: create-a-work-profile-and-enroll-your-device-in-intune-android.md
+        Metadata: {}
+      Metadata: {}
+    - name: Use managed apps on your device
+      NameInDevLangs: {}
+      href: use-managed-apps-on-your-device-android.md
+      Metadata: {}
+    - name: Encrypt your device
+      NameInDevLangs: {}
+      href: encrypt-your-device-android.md
+      Metadata: {}
+    - name: Set your PIN or password
+      NameInDevLangs: {}
+      href: set-your-pin-or-password-android.md
+      Metadata: {}
+    - name: What happens when I reset my device?
+      NameInDevLangs: {}
+      href: what-happens-if-you-reset-your-device-using-the-company-portal-android.md
+      Metadata: {}
+    - name: Reset your device
+      NameInDevLangs: {}
+      href: reset-erase-your-device-cpwebsite.md
+      Metadata: {}
+    - name: Set lock time
+      NameInDevLangs: {}
+      href: set-the-amount-of-time-before-your-device-is-locked-android.md
+      Metadata: {}
+    - name: Install VPN
+      NameInDevLangs: {}
+      href: install-your-companys-virtual-private-network-VPN-android.md
+      Metadata: {}
+    - name: Turn off Microsoft usage data collection
+      NameInDevLangs: {}
+      href: turn-off-microsoft-usage-data-collection-android.md
+      Metadata: {}
+    - name: What happens if you unenroll your device from Intune?
+      NameInDevLangs: {}
+      href: what-happens-if-you-unenroll-your-device-from-intune-android.md
+      items:
+      - name: Unenroll your device
+        NameInDevLangs: {}
+        href: unenroll-your-device-from-intune-android.md
+        Metadata: {}
+      - name: Unenroll your device if you declined Terms of Use
+        NameInDevLangs: {}
+        href: unenroll-your-device-from-intune-if-you-declined-terms-of-use-android.md
+        Metadata: {}
+      Metadata: {}
+    - name: Fixing common issues with Android
+      NameInDevLangs: {}
+      href: troubleshoot-your-device-android.md
+      items:
+      - name: Checking device compliance
+        NameInDevLangs: {}
+        href: check-compliance-on-your-device-android.md
+        Metadata: {}
+      - name: '[Using logs to fix issues]'
+        NameInDevLangs: {}
+        items:
+        - name: Turn on verbose logging
+          NameInDevLangs: {}
+          href: use-verbose-logging-to-help-your-it-administrator-fix-device-issues-android.md
+          Metadata: {}
+        - name: Send logs using email
+          NameInDevLangs: {}
+          href: send-logs-to-your-it-admin-by-email-android.md
+          Metadata: {}
+        - name: Send logs using a USB cable
+          NameInDevLangs: {}
+          href: send-logs-to-your-it-admin-using-cable-android.md
+          Metadata: {}
+        - name: Submit enrollment errors
+          NameInDevLangs: {}
+          href: send-enrollment-errors-to-your-it-admin-android.md
+          Metadata: {}
+        Metadata: {}
+      Metadata: {}
+    - name: Operating system questions
+      NameInDevLangs: {}
+      items:
+      - name: Update your device
+        NameInDevLangs: {}
+        href: you-need-to-update-your-android-device.md
+        Metadata: {}
+      - name: Unsupported version
+        NameInDevLangs: {}
+        href: your-android-version-isnt-yet-supported.md
+        Metadata: {}
+      - name: Your device is rooted and you can't connect
+        NameInDevLangs: {}
+        href: your-device-is-rooted-and-you-cant-connect-android.md
+        Metadata: {}
+      - name: Missing a required certificate
+        NameInDevLangs: {}
+        href: your-device-is-missing-a-required-certificate-landing-android.md
+        Metadata: {}
+      - name: Turn off unknown sources
+        NameInDevLangs: {}
+        href: you-need-to-turn-off-unknown-sources-android.md
+        Metadata: {}
+      - name: Turn off USB debugging
+        NameInDevLangs: {}
+        href: you-need-to-turn-off-usb-debugging-android.md
+        Metadata: {}
+      - name: Turn on scanning for security threats
+        NameInDevLangs: {}
+        href: you-need-to-turn-on-scanning-for-security-threats-android.md
+        Metadata: {}
+      - name: Unsupported security patch
+        NameInDevLangs: {}
+        href: you-need-to-update-your-device-OS-security-patch-android.md
+        Metadata: {}
+      - name: Devices with encryption errors
+        NameInDevLangs: {}
+        href: your-device-appears-encrypted-but-cp-says-otherwise-android.md
+        Metadata: {}
+      Metadata: {}
+    - name: Mobile Threat Defense
+      NameInDevLangs: {}
+      items:
+      - name: Install a Mobile Threat Defense app
+        NameInDevLangs: {}
+        href: you-are-prompted-to-install-mtd-android.md
+        Metadata: {}
+      - name: Resolve a threat
+        NameInDevLangs: {}
+        href: you-need-to-resolve-a-threat-found-by-mtd-android.md
+        Metadata: {}
+      Metadata: {}
+    Metadata: {}
+  - name: Using your iOS or macOS device with Intune
+    NameInDevLangs: {}
+    href: using-your-iOS-or-macOS-device-with-intune.md
+    items:
+    - name: What happens when you enroll an iOS device?
+      NameInDevLangs: {}
+      href: what-happens-if-you-install-the-company-portal-app-and-enroll-your-device-in-intune-ios.md
+      Metadata: {}
+    - name: Install and sign in to the Company Portal
+      NameInDevLangs: {}
+      href: install-and-sign-in-to-the-intune-company-portal-app-ios.md
+      Metadata: {}
+    - name: Enroll your iOS device
+      NameInDevLangs: {}
+      href: enroll-your-device-in-intune-ios.md
+      Metadata: {}
+    - name: Enroll your macOS device
+      NameInDevLangs: {}
+      href: enroll-your-device-in-intune-macos.md
+      Metadata: {}
+    - name: Enroll your macOS device with the Company Portal
+      NameInDevLangs: {}
+      href: enroll-your-device-in-intune-macos-cp.md
+      Metadata: {}
+    - name: Use managed apps on your device
+      NameInDevLangs: {}
+      href: use-managed-apps-on-your-device-ios.md
+      Metadata: {}
+    - name: Set or change your passcode
+      NameInDevLangs: {}
+      href: set-or-change-your-passcode-ios.md
+      Metadata: {}
+    - name: What happens if you reset your device using the Company Portal?
+      NameInDevLangs: {}
+      href: what-happens-if-you-reset-your-device-using-the-company-portal-ios.md
+      Metadata: {}
+    - name: Reset your device
+      NameInDevLangs: {}
+      href: reset-erase-your-device-cpwebsite.md
+      Metadata: {}
+    - name: Turn off Microsoft usage data collection
+      NameInDevLangs: {}
+      href: turn-off-microsoft-usage-data-collection-ios.md
+      Metadata: {}
+    - name: Unenroll your device
+      NameInDevLangs: {}
+      href: unenroll-your-device-from-intune-ios.md
+      items:
+      - name: What happens if you unenroll your device?
+        NameInDevLangs: {}
+        href: what-happens-if-you-unenroll-your-device-from-intune-ios.md
+        Metadata: {}
+      Metadata: {}
+    - name: Manually sync your device
+      NameInDevLangs: {}
+      href: sync-your-device-manually-ios.md
+      Metadata: {}
+    - name: Fixing common issues with iOS
+      NameInDevLangs: {}
+      href: troubleshoot-your-device-iOS.md
+      items:
+      - name: Reconnect a compromised iOS device
+        NameInDevLangs: {}
+        href: how-to-reconnect-a-compromised-ios-device.md
+        Metadata:
+          is_archived: true
+      - name: Send errors to your company
+        NameInDevLangs: {}
+        href: send-errors-to-your-it-admin-ios.md
+        Metadata:
+          is_archived: true
+      - name: Send errors to Microsoft
+        NameInDevLangs: {}
+        href: send-logs-to-microsoft-ios.md
+        Metadata:
+          is_archived: true
+      - name: An error appeared
+        NameInDevLangs: {}
+        href: you-get-an-error-while-using-the-company-portal-app-ios.md
+        Metadata:
+          is_archived: true
+      - name: Identify your device
+        NameInDevLangs: {}
+        href: you-are-asked-to-identify-your-device-when-trying-to-enroll-ios.md
+        Metadata:
+          is_archived: true
+      - name: Locate your serial number
+        NameInDevLangs: {}
+        href: how-do-i-find-the-serial-number-on-my-device-ios.md
+        Metadata:
+          is_archived: true
+      - name: Updating your iOS device
+        NameInDevLangs: {}
+        href: you-need-to-update-your-ios-device.md
+        Metadata:
+          is_archived: true
+      - name: My version of iOS isn't yet supported
+        NameInDevLangs: {}
+        href: your-ios-version-isnt-yet-supported.md
+        Metadata:
+          is_archived: true
+      Metadata:
+        is_archived: true
+    - name: Mobile Threat Defense
+      NameInDevLangs: {}
+      items:
+      - name: Install a Mobile Threat Defense app
+        NameInDevLangs: {}
+        href: you-are-prompted-to-install-mtd-ios.md
+        Metadata: {}
+      - name: Resolve a threat
+        NameInDevLangs: {}
+        href: you-need-to-resolve-a-threat-found-by-mtd-ios.md
+        Metadata: {}
+      Metadata: {}
+    Metadata: {}
+  - name: Using your Windows device
+    NameInDevLangs: {}
+    href: using-your-windows-device-with-intune.md
+    items:
+    - name: What happens when you enroll a Windows 10 device?
+      NameInDevLangs: {}
+      href: what-happens-if-you-install-the-company-portal-app-and-enroll-your-device-in-intune-windows10.md
+      Metadata: {}
+    - name: What happens when you enroll a Windows device with another version of Windows?
+      NameInDevLangs: {}
+      href: what-happens-if-you-install-the-company-portal-app-and-enroll-your-device-in-intune-windows.md
+      Metadata: {}
+    - name: Enroll your Windows device
+      NameInDevLangs: {}
+      href: enroll-your-device-in-intune-windows.md
+      Metadata: {}
+    - name: What happens if you install the Company Portal app and enroll your device in Intune?
+      NameInDevLangs: {}
+      href: what-happens-if-you-install-the-company-portal-app-and-enroll-your-device-in-intune-windows.md
+      Metadata: {}
+    - name: Reset your device
+      NameInDevLangs: {}
+      href: reset-erase-your-device-cpwebsite.md
+      Metadata: {}
+    - name: Encrypt your device
+      NameInDevLangs: {}
+      href: encrypt-your-device-windows.md
+      Metadata: {}
+    - name: Set or change your password
+      NameInDevLangs: {}
+      href: set-or-change-your-password-windows.md
+      Metadata: {}
+    - name: Unenroll your device from Intune
+      NameInDevLangs: {}
+      href: unenroll-your-device-from-intune-windows.md
+      Metadata: {}
+    - name: What happens if you unenroll your device?
+      NameInDevLangs: {}
+      href: what-happens-if-you-unenroll-your-device-from-intune-windows.md
+      Metadata: {}
+    - name: What happens if you reset your device?
+      NameInDevLangs: {}
+      href: what-happens-if-you-reset-your-device-using-the-company-portal-windows.md
+      Metadata: {}
+    - name: Turn off Microsoft usage data collection
+      NameInDevLangs: {}
+      href: turn-off-microsoft-usage-data-collection-windows.md
+      Metadata: {}
+    - name: Sync your device manually
+      NameInDevLangs: {}
+      href: sync-your-device-manually-windows.md
+      Metadata: {}
+    - name: Fixing common issues with Windows
+      NameInDevLangs: {}
+      href: troubleshoot-your-device-windows.md
+      items:
+      - name: My Windows 10 device won't enroll
+        NameInDevLangs: {}
+        href: troubleshoot-your-windows-10-device-windows.md
+        Metadata: {}
+      - name: Updating your Windows device
+        NameInDevLangs: {}
+        href: you-need-to-update-your-windows-device.md
+        Metadata: {}
+      - name: Send logs to from the Company Portal app
+        NameInDevLangs: {}
+        href: send-logs-to-your-it-admin-cp-windows.md
+        Metadata: {}
+      - name: Send logs from the Settings app
+        NameInDevLangs: {}
+        href: send-logs-to-your-it-admin-settings-windows.md
+        Metadata: {}
+      - name: My Windows version isn't yet supported
+        NameInDevLangs: {}
+        href: your-windows-version-isnt-yet-supported.md
+        Metadata: {}
+      - name: Enable Windows encryption
+        NameInDevLangs: {}
+        href: you-need-to-enable-windows-encryption.md
+        Metadata: {}
+      - name: My device needs antimalware software
+        NameInDevLangs: {}
+        href: your-device-needs-antimalware-software.md
+        Metadata: {}
+      - name: Enable Secure Boot
+        NameInDevLangs: {}
+        href: you-need-to-enable-secure-boot-windows.md
+        Metadata: {}
+      - name: Enable Code Integrity
+        NameInDevLangs: {}
+        href: you-need-to-enable-code-integrity.md
+        Metadata: {}
+      Metadata: {}
+    Metadata: {}
+  - name: Using the Intune Company Portal website
+    NameInDevLangs: {}
+    href: using-the-intune-company-portal-website.md
+    Metadata: {}
+  Metadata: {}
+Metadata: {}
