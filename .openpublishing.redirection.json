@@ -1,0 +1,49 @@
+{
+	"redirections": [
+		{
+			"source_path": "docsarchivedemosrc/troubleshoot-your-device-ios.md",
+			"redirect_url": "https://reivew.docs.microsoft.com/DocsArchiveDemoDes/troubleshoot-your-device-ios",
+			"redirect_document_id": false
+		},
+		{
+			"source_path": "docsarchivedemosrc/how-to-reconnect-a-compromised-ios-device.md",
+			"redirect_url": "https://reivew.docs.microsoft.com/DocsArchiveDemoDes/how-to-reconnect-a-compromised-ios-device",
+			"redirect_document_id": false
+		},
+		{
+			"source_path": "docsarchivedemosrc/send-errors-to-your-it-admin-ios.md",
+			"redirect_url": "https://reivew.docs.microsoft.com/DocsArchiveDemoDes/send-errors-to-your-it-admin-ios",
+			"redirect_document_id": false
+		},
+		{
+			"source_path": "docsarchivedemosrc/send-logs-to-microsoft-ios.md",
+			"redirect_url": "https://reivew.docs.microsoft.com/DocsArchiveDemoDes/send-logs-to-microsoft-ios",
+			"redirect_document_id": false
+		},
+		{
+			"source_path": "docsarchivedemosrc/you-get-an-error-while-using-the-company-portal-app-ios.md",
+			"redirect_url": "https://reivew.docs.microsoft.com/DocsArchiveDemoDes/you-get-an-error-while-using-the-company-portal-app-ios",
+			"redirect_document_id": false
+		},
+		{
+			"source_path": "docsarchivedemosrc/you-are-asked-to-identify-your-device-when-trying-to-enroll-ios.md",
+			"redirect_url": "https://reivew.docs.microsoft.com/DocsArchiveDemoDes/you-are-asked-to-identify-your-device-when-trying-to-enroll-ios",
+			"redirect_document_id": false
+		},
+		{
+			"source_path": "docsarchivedemosrc/how-do-i-find-the-serial-number-on-my-device-ios.md",
+			"redirect_url": "https://reivew.docs.microsoft.com/DocsArchiveDemoDes/how-do-i-find-the-serial-number-on-my-device-ios",
+			"redirect_document_id": false
+		},
+		{
+			"source_path": "docsarchivedemosrc/you-need-to-update-your-ios-device.md",
+			"redirect_url": "https://reivew.docs.microsoft.com/DocsArchiveDemoDes/you-need-to-update-your-ios-device",
+			"redirect_document_id": false
+		},
+		{
+			"source_path": "docsarchivedemosrc/your-ios-version-isnt-yet-supported.md",
+			"redirect_url": "https://reivew.docs.microsoft.com/DocsArchiveDemoDes/your-ios-version-isnt-yet-supported",
+			"redirect_document_id": false
+		}
+	]
+}
